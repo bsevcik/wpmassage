@@ -17,7 +17,7 @@ get_header();
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 
-		<?php /*
+		<?php 
 		if ( have_posts() ) {
 
 			// Load posts loop.
@@ -35,11 +35,10 @@ get_header();
 			get_template_part( 'template-parts/content/content', 'none' );
 
 		}
-		*/
 		?>
 
 		</main><!-- .site-main -->
 	</div><!-- .content-area -->
 
 <?php
-//get_footer();
+get_footer();
