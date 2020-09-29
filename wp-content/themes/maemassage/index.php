@@ -9,12 +9,9 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package WordPress
- * @subpackage Twenty_Nineteen
- * @since Twenty Nineteen 1.0
  */
 
-//get_header();
+get_header();
 ?>
 <h1>index.php</h1>
 	<div id="primary" class="content-area">
